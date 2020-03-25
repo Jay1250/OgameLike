@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OgameLikeClassLibrary
 {
-    class ResourceGenerator : Building
+    public class ResourceGenerator : Building
     {
         public override int? CellNb()
         {

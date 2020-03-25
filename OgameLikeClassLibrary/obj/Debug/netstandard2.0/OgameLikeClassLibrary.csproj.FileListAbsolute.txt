@@ -7,3 +7,12 @@ C:\Users\Megaport\source\repos\OgameLikeClassLibrary\OgameLikeClassLibrary\obj\D
 C:\Users\Megaport\source\repos\OgameLikeClassLibrary\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.AssemblyInfo.cs
 C:\Users\Megaport\source\repos\OgameLikeClassLibrary\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.dll
 C:\Users\Megaport\source\repos\OgameLikeClassLibrary\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.pdb
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\bin\Debug\netstandard2.0\OgameLikeClassLibrary.deps.json
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\bin\Debug\netstandard2.0\OgameLikeClassLibrary.dll
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\bin\Debug\netstandard2.0\OgameLikeClassLibrary.pdb
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.AssemblyInfo.cs
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.dll
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.pdb
+C:\Users\Megaport\source\repos\OgameLike\OgameLikeClassLibrary\obj\Debug\netstandard2.0\OgameLikeClassLibrary.csprojAssemblyReference.cache

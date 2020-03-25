@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OgameLikeClassLibrary", "OgameLikeClassLibrary\OgameLikeClassLibrary.csproj", "{3252F9D8-B4B5-4350-91FA-385975D77C89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgameLikeProject", "OgameLikeProject\OgameLikeProject.csproj", "{B9DA6CD1-DCDA-44F1-B8F2-632DB1A1191C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3252F9D8-B4B5-4350-91FA-385975D77C89} = {3252F9D8-B4B5-4350-91FA-385975D77C89}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

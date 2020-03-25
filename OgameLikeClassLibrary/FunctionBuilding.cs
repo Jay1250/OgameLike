@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OgameLikeClassLibrary
 {
-    class FunctionBuilding
+    public class FunctionBuilding
     {
         public List<Action> Actions()
         {
